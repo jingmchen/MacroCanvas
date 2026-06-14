@@ -35,3 +35,7 @@ I needed a macro software that could perform beyond what TinyTasks and other fre
   -> Currently included: Mouse steps, Key steps, Power shell steps, Pixel Color check steps, Image (bitmap) check steps, Conditional steps
   -> More on the way as I am still thinking on how to expand this further
 
+# Screenshots
+<img width="1508" height="902" alt="image" src="https://github.com/user-attachments/assets/ddcf1dfb-4788-4e00-8e95-06abe33e30c6" />
+
+
