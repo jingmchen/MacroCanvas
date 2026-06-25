@@ -17,6 +17,7 @@ TODO:
 
 # PROJECT ARCHITECTURE
 <img width="355" height="426" alt="image" src="https://github.com/user-attachments/assets/23d2315e-14bb-4040-ac2b-9736bc3ec615" />
+Note: I have changed the name again. Still figuring out the best name
 
 AppHost is composition root. References all other CSPROJ but is not referenced by any itself.
 Reference order:
