@@ -4,7 +4,7 @@ C# Avalonia (.NET10 / Avalonia 12)
 
 My motivation was: my friend needed to use a macro software, and he complained that the good ones on the market are too expensive.
 
-Initially I planned to make this a freemium software. But my FT job income is not progressing well. In fact, my salary level is below fresh graduate salaries. At this rate with the current inflation, I will never be able to afford housing.
+Initially I planned to make this an open-source software. But my FT job income is not progressing well. In fact, my salary level is below fresh graduate salaries. At this rate with the current inflation, I will never be able to afford housing.
 
 To create a commercial macro in a market full of free macro software, this software idea needs to deliver something unique, appealing, and useful.
 
